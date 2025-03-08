@@ -9,7 +9,7 @@ function App() {
         </h1>
         <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-6">
           <MdAlamin />
-          {/* Copy Paste your profile component */}
+          {/* Nested your component */}
         </section>
       </div>
     </>
